@@ -5,7 +5,7 @@ Table of Content
 
  1. [Dataset](#Dataset)
  2. [Models Implementation in Keras](#Models Implementation in Keras)
-
+ 1. [Models Implementation in Keras](#Models Implementation in Keras)
 ## Dataset
 
 The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
