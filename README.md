@@ -22,4 +22,7 @@ dataset : https://data.mendeley.com/datasets/rscbjbr9sj/2
 ## Models Implementation in Keras
 ### VGG16 
 ![image](https://user-images.githubusercontent.com/47725118/136970355-4913a3f1-eab3-458e-9346-4e9ee74ff89f.png)
+
+
+
 Concerning Vgg16 implementation , I did some transfer learning by making the top layer Compatible for the Task , Binary Categoration ( Sigmoid activation ) 
