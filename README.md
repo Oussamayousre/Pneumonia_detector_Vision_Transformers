@@ -26,3 +26,8 @@ dataset : https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 
 Concerning Vgg16 implementation , I did some transfer learning by making the top layer Compatible for the Task , Binary Categoration ( Sigmoid activation ) 
+
+### Efficient Net 
+
+![image](https://user-images.githubusercontent.com/47725118/136971556-f7920db9-cfdd-4409-8812-38bb112b01f4.png)
+
